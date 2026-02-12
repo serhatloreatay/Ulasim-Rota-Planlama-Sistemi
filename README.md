@@ -1,5 +1,4 @@
 # Ulasim-Rota-Planlama-Sistemi
-# Ulaşım Rota Planlama Sistemi
 
 Bu proje, şehir içi ulaşımda **duraklar**, **hatlar** ve **taksi zorunluluğu** gibi koşulları dikkate alarak yolcular için en uygun rotayı hesaplayan bir **Python tabanlı rota planlama sistemidir**.
 
